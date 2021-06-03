@@ -1,0 +1,4 @@
+include ':mylibraryndkdemo'
+include ':mylibrarycmake'
+include ':app'
+rootProject.name = "JniDemo"

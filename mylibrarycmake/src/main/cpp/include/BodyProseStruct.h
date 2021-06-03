@@ -1,0 +1,8 @@
+//
+// Created by charbaby on 2021/6/1.
+//
+
+#ifndef JNIDEMO_BODYPROSESTRUCT_H
+#define JNIDEMO_BODYPROSESTRUCT_H
+
+#endif //JNIDEMO_BODYPROSESTRUCT_H
